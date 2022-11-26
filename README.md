@@ -16,15 +16,6 @@ WeLoveMovies is your source for finding reviews of movies in theatres near you,y
 
 ## SKILLS USED
 
-### Frontend
-
-- React
-- Javascript
-- HTML / JSX
-- CSS
-- Bootstrap
-- React Router
-- React Hooks (useState, useEffect)
 
 ### Backend
 
